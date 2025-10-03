@@ -1,1 +1,7 @@
-
+#sun{
+  width:120px;
+  height:120px;
+  background-color:yellow;
+  border-radius:100%;
+  animation:sunrise 30s infinite;
+}
