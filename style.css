@@ -3,5 +3,6 @@
   height:120px;
   background-color:yellow;
   border-radius:100%;
+  box-shadow: 0 0 50px 10px yellow;
   animation:sunrise 30s infinite;
 }
